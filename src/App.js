@@ -10,7 +10,7 @@ function App() {
           DevOps Testing  <code>CI-CD</code> ESAN Project
         </p>
 
-          semana 15    
+          semana 15  powered by Ronal Waldo.
           <a href="https://www.esan.edu.pe/">learn react</a>
           <p>Prueba de SOftware</p>
       </header>
